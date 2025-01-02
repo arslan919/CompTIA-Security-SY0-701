@@ -60,5 +60,5 @@ The CompTIA Security+ 701 certification is highly regarded in the cybersecurity 
 Prepare effectively, and you'll be well-equipped to tackle the challenges of securing modern digital environments!
 
 ### License
-#### This project is licensed under the  Apache License
+#### This project is licensed under the  MIT License
 #### Start your journey to becoming Security+ certified today!
