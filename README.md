@@ -50,7 +50,6 @@ The exam is divided into five key domains, each covering crucial aspects of cybe
 - Clear and Concise: Easy-to-follow notes that simplify complex topics.
 - Comprehensive Coverage: All exam domains are thoroughly covered for a holistic understanding.
 - Regular Updates: Stay up-to-date with the latest exam changes and trends.
-- Interactive Learning: Engage with interactive elements like quizzes, flashcards, and practice exams.
 
 ## Contributions
 Feel free to contribute by opening issues for feedback, suggestions, or errors found in the content. Pull requests are also welcome to enhance and improve the repository's content.
