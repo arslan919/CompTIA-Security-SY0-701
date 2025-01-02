@@ -56,7 +56,14 @@ While there are no formal prerequisites, it is recommended that candidates have 
 - Practice exams and simulations
 - Study groups and forums for peer support
 
+## Contributions
+Feel free to contribute by opening issues for feedback, suggestions, or errors found in the content. Pull requests are also welcome to enhance and improve the repository's content.
+
 ## Importance of Certification:
 The CompTIA Security+ 701 certification is highly regarded in the cybersecurity industry. It demonstrates your competence in essential security skills, making you a more attractive candidate for various roles such as security analyst, network administrator, and systems administrator. Achieving this certification not only enhances your resume but also provides a solid foundation for more advanced cybersecurity certifications and career advancement.
 
 Prepare effectively, and you'll be well-equipped to tackle the challenges of securing modern digital environments!
+
+### License
+#### This project is licensed under the  Apache License
+#### Start your journey to becoming Security+ certified today!
